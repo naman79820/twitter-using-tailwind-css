@@ -990,6 +990,22 @@ video {
   gap: 60px;
 }
 
+.gap-\[6px\] {
+  gap: 6px;
+}
+
+.gap-\[68px\] {
+  gap: 68px;
+}
+
+.gap-\[70px\] {
+  gap: 70px;
+}
+
+.gap-\[69px\] {
+  gap: 69px;
+}
+
 .space-x-80 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(20rem * var(--tw-space-x-reverse));
